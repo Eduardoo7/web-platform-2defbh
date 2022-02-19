@@ -1,3 +1,7 @@
 body {
-  background: orange;
+  background:blue;
+}
+p {
+  text-align: "center" ;
+  color: white;
 }
